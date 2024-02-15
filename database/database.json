@@ -1,0 +1,55 @@
+{
+  "admins": [
+    {
+      "name": "Michell Alvarez Monsalve",
+      "email": "michellalpo@hotmail.com",
+      "id": "abc9"
+    },
+    {
+      "id": "fc9c",
+      "name": "Manuela",
+      "email": "manuela@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "335c",
+      "name": "Robinson",
+      "email": "robin.2@gmail.com",
+      "pasword": "password"
+    },
+    {
+      "id": "e6aa",
+      "name": "David",
+      "email": "david.69@gmail.com",
+      "pasword": "password"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1033",
+      "imgLogo": "logo-ahora.jpg",
+      "name": "Ahora",
+      "local": "201",
+      "piso": "2",
+      "horario": "Lunes - sábado: 10:00 a.m. - 7:00 p.m. Domingos y festivos: 10:00 a.m. - 6:00 p.m.",
+      "web": "https://www.a-hora.com/"
+    },
+    {
+      "id": "9cde",
+      "imgLogo": "logo-calzatodo.jpg",
+      "name": "Calzatodo",
+      "local": "106",
+      "piso": "1",
+      "horario": "Lunes - sábado: 10:00 a.m. - 7:00 p.m. Domingos y festivos: 10:00 a.m. - 6:00 p.m.",
+      "web": "https://www.calzatodo.com.co/?gad_source=1&gclid=Cj0KCQiA5rGuBhCnARIsAN11vgQi_9CYzT-lGHypxYvAYlUPbpH9OSJAjj6zZL2diLlchc1ZhJN5ixMaAsTKEALw_wcB"
+    }
+  ],
+  "pqrs": [
+    {
+      "id": "f2bc",
+      "pqrs": "Queja",
+      "email": "emmacris04@gmail.com",
+      "texto": "Mal servicio"
+    }
+  ]
+}
